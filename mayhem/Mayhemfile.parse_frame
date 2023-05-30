@@ -1,0 +1,5 @@
+project: fastwebsockets
+target: parse_frame
+
+cmds:
+  - cmd: /parse_frame
