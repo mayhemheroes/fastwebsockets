@@ -1,0 +1,5 @@
+project: fastwebsockets
+target: unmask
+
+cmds:
+  - cmd: /unmask
